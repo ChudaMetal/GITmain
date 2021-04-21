@@ -16,7 +16,7 @@ int main(){
 		printf("+");
 		else
 		printf("*");
-		
+		printf("Modificat pentru GiThub");
 		printf("\n");
 	}
 	return(0);
